@@ -1,0 +1,11 @@
+#recipe {
+    font-family: Arial, Helvetica;
+}
+img {
+    height: 200px;
+    width: auto;
+}
+h1 {
+    background-color: lightblue;
+    text-align: center;
+}
